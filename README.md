@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Salut, moi c'est Essaid (Said)<br><br>Développeur web full-stack depuis 3 ans, en 5ème année à HETIC (Transformation Digitale). Je transforme les besoins des entreprises en solutions concrètes, du cadrage jusqu'à la mise en production, avec 100% des délais tenus sur mes projets. Curieux et autonome, j'intègre l'IA à mon quotidien pour aller plus vite et livrer une meilleure qualité. Aujourd'hui, je cherche une équipe où mettre cette capacité à résoudre des problèmes au service de vrais projets.
+👋 Salut, moi c'est Baklioun Essaid<br><br>Développeur web full-stack depuis 3 ans, en 5ème année à HETIC (Transformation Digitale). Je transforme les besoins des entreprises en solutions concrètes, du cadrage jusqu'à la mise en production, avec 100% des délais tenus sur mes projets. Curieux et autonome, j'intègre l'IA à mon quotidien pour aller plus vite et livrer une meilleure qualité. Aujourd'hui, je cherche une équipe où mettre cette capacité à résoudre des problèmes au service de vrais projets.
 
 
 ## 🌐 Socials:
